@@ -2,7 +2,7 @@
 Ability to edit team names during simulation
 Fix cards (fuckers get cut off)
 Add production side of things
-Refactor (80% done)
+Refactor (90% done)
 
 #MAYBE
 Stats (per team/comp/role/god)
