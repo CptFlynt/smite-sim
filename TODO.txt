@@ -1,8 +1,7 @@
 #TODO
-Ability to edit team names during simulation
-Fix cards (fuckers get cut off)
-Add production side of things
-Refactor (90% done)
+Ability to edit team names during gameplay
+Fix cards (fuckers get cut off) - use Textures/Materials instead of Sprites
+Add Production
 
 #MAYBE
 Stats (per team/comp/role/god)
